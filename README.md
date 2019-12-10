@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+Hi there!
+
+Pizet here!
+I'm learning Java and Python, also I'm a coffeeholic!
