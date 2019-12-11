@@ -3,4 +3,4 @@
 Hi there!
 
 Pizet here!
-I'm looking to work with Java and/or Python, also I love coffee!
+I'm interesting in Java and Python. I love coffee and chocolate! 
