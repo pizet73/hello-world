@@ -3,4 +3,4 @@
 Hi there!
 
 Pizet here!
-I'm learning Java and Python, also I'm a coffeeholic!
+I'm looking to work with Java and/or Python, also I love coffee!
